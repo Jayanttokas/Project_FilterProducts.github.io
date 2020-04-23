@@ -1,0 +1,50 @@
+html, body{
+  padding: 0px;
+  margin: 0px;
+}
+
+.container-fluid{
+  background-color: #45ada8;
+  border-radius: 2px;
+}
+
+#search{
+  border-radius: 5px;
+  background-color: #2F9599;
+  color: white;
+  padding-left: 5px;
+  margin-left: 3px;
+}
+
+#search::placeholder{
+  color: white;
+}
+
+h1{
+  font-family: 'Satisfy', cursive;
+  text-decoration: underline;
+  text-shadow: 0px 0px 40px grey;
+}
+
+.container{
+  font-family: 'Baloo Paaji 2', cursive;
+}
+
+.product-container{
+  margin-top: 20px;
+  display: grid;
+}
+
+.grid-item {
+  padding: 10px;
+}
+
+.grid-item img{
+  width:300px;
+  border: 2px solid #355C7D;
+}
+
+.product-description{
+  padding: 7px;
+  background-color: lightBlue;
+}
