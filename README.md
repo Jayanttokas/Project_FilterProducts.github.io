@@ -2,7 +2,7 @@
 A store showing Filtered Products
 
 <h1>NOTE</h1>
-<b> Store Has Grid Problems when you click on All</b>
+<b> Store Has Grid Problems when you click on All</b><br>
 <b>All of the Code is written in ES6 version.</b>
 
 <b>Updates appreciated</b> <br/>
