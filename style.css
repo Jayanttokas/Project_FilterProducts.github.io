@@ -48,3 +48,8 @@ h1{
   padding: 7px;
   background-color: lightBlue;
 }
+
+.grid-item img:hover{
+  width:300px;
+  border: 10px solid #355C7D;
+}
